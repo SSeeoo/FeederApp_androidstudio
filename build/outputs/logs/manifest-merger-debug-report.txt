@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml:2:1-22:12
+MERGED from [com.amazonaws:aws-android-sdk-iot:2.16.13] C:\Users\pou79\.gradle\caches\transforms-2\files-2.1\82dadf9719ccc50893423ac9ac8123cc\AndroidManifest.xml:1:1-4:12
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.16.13] C:\Users\pou79\.gradle\caches\transforms-2\files-2.1\4de588de276444eccfb22f187dc2868d\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\pou79\.gradle\caches\transforms-2\files-2.1\edd9c3f05309e531fa9a6a8e92ec5e10\AndroidManifest.xml:17:1-24:12
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.16.13] C:\Users\pou79\.gradle\caches\transforms-2\files-2.1\eafe60ae687d2480336fd0914915962f\AndroidManifest.xml:2:1-4:12
+MERGED from [org.conscrypt:conscrypt-android:2.0.0] C:\Users\pou79\.gradle\caches\transforms-2\files-2.1\7250ac701e472b9f0d4b576b3b805325\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\pou79\.gradle\caches\transforms-2\files-2.1\effa42264f1572a2ce1c28274986305b\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\pou79\.gradle\caches\transforms-2\files-2.1\705f037b88e4c2fc5654a6e2fcee5c35\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml:3:5-47
+	android:versionName
+		ADDED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml
+		INJECTED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml
+		INJECTED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml:7:5-67
+MERGED from [com.amazonaws:aws-android-sdk-iot:2.16.13] C:\Users\pou79\.gradle\caches\transforms-2\files-2.1\82dadf9719ccc50893423ac9ac8123cc\AndroidManifest.xml:3:5-66
+MERGED from [com.amazonaws:aws-android-sdk-iot:2.16.13] C:\Users\pou79\.gradle\caches\transforms-2\files-2.1\82dadf9719ccc50893423ac9ac8123cc\AndroidManifest.xml:3:5-66
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.16.13] C:\Users\pou79\.gradle\caches\transforms-2\files-2.1\4de588de276444eccfb22f187dc2868d\AndroidManifest.xml:4:5-66
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.16.13] C:\Users\pou79\.gradle\caches\transforms-2\files-2.1\4de588de276444eccfb22f187dc2868d\AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml:7:22-64
+application
+ADDED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml:9:5-20:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\pou79\.gradle\caches\transforms-2\files-2.1\edd9c3f05309e531fa9a6a8e92ec5e10\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\pou79\.gradle\caches\transforms-2\files-2.1\edd9c3f05309e531fa9a6a8e92ec5e10\AndroidManifest.xml:22:5-94
+MERGED from [org.conscrypt:conscrypt-android:2.0.0] C:\Users\pou79\.gradle\caches\transforms-2\files-2.1\7250ac701e472b9f0d4b576b3b805325\AndroidManifest.xml:11:5-20
+MERGED from [org.conscrypt:conscrypt-android:2.0.0] C:\Users\pou79\.gradle\caches\transforms-2\files-2.1\7250ac701e472b9f0d4b576b3b805325\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\pou79\.gradle\caches\transforms-2\files-2.1\effa42264f1572a2ce1c28274986305b\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\pou79\.gradle\caches\transforms-2\files-2.1\effa42264f1572a2ce1c28274986305b\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\pou79\.gradle\caches\transforms-2\files-2.1\edd9c3f05309e531fa9a6a8e92ec5e10\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml:11:9-45
+	android:allowBackup
+		ADDED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml:10:9-35
+activity#com.amazonaws.demo.androidpubsub.PubSubActivity
+ADDED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml:13:19-81
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml
+INJECTED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\pou79\.gradle\caches\transforms-2\files-2.1\edd9c3f05309e531fa9a6a8e92ec5e10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\pou79\.gradle\caches\transforms-2\files-2.1\edd9c3f05309e531fa9a6a8e92ec5e10\AndroidManifest.xml:20:5-44
+MERGED from [org.conscrypt:conscrypt-android:2.0.0] C:\Users\pou79\.gradle\caches\transforms-2\files-2.1\7250ac701e472b9f0d4b576b3b805325\AndroidManifest.xml:7:5-9:41
+MERGED from [org.conscrypt:conscrypt-android:2.0.0] C:\Users\pou79\.gradle\caches\transforms-2\files-2.1\7250ac701e472b9f0d4b576b3b805325\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\pou79\.gradle\caches\transforms-2\files-2.1\effa42264f1572a2ce1c28274986305b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\pou79\.gradle\caches\transforms-2\files-2.1\effa42264f1572a2ce1c28274986305b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\pou79\.gradle\caches\transforms-2\files-2.1\705f037b88e4c2fc5654a6e2fcee5c35\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\pou79\.gradle\caches\transforms-2\files-2.1\705f037b88e4c2fc5654a6e2fcee5c35\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml
+INJECTED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml
+		ADDED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml
+		INJECTED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml
+		ADDED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml
+		INJECTED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml:2:1-22:12 reason: com.amazonaws.iot has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml:2:1-22:12 reason: com.amazonaws.iot has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\pou79\Desktop\testfolder\AndroidPubSub\AndroidManifest.xml:2:1-22:12 reason: com.amazonaws.iot requested WRITE_EXTERNAL_STORAGE
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.amazonaws:aws-android-sdk-mobile-client:2.16.13] C:\Users\pou79\.gradle\caches\transforms-2\files-2.1\4de588de276444eccfb22f187dc2868d\AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-mobile-client:2.16.13] C:\Users\pou79\.gradle\caches\transforms-2\files-2.1\4de588de276444eccfb22f187dc2868d\AndroidManifest.xml:5:22-76

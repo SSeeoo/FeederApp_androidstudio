@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Mon Jun 26 17:46:31 KST 2023
+3.set=NATIVE_RESOURCE
+3.path=lib/arm64-v8a/libconscrypt_jni.so
+2.base=C\:\\Users\\pou79\\Desktop\\testfolder\\AndroidPubSub\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=lib/armeabi-v7a/libconscrypt_jni.so
+4.path=lib/x86/libconscrypt_jni.so
+count=5
+1.set=NATIVE_RESOURCE
+2.path=classes.dex
+2.baseType=DIRECTORY
+0.base=C\:\\Users\\pou79\\Desktop\\testfolder\\AndroidPubSub\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+2.set=DEX
+3.base=C\:\\Users\\pou79\\Desktop\\testfolder\\AndroidPubSub\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+1.baseType=DIRECTORY
+3.baseType=DIRECTORY
+1.path=lib/x86_64/libconscrypt_jni.so
+4.base=C\:\\Users\\pou79\\Desktop\\testfolder\\AndroidPubSub\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+4.set=NATIVE_RESOURCE
+0.baseType=DIRECTORY
+1.base=C\:\\Users\\pou79\\Desktop\\testfolder\\AndroidPubSub\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+4.baseType=DIRECTORY
+0.set=NATIVE_RESOURCE
